@@ -6,11 +6,11 @@
 <br /><br />
 
 ## 📌 front-end
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,styledcomponents,emotion,vue,nuxt,webpack,vite,jest,bootstrap,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,styledcomponents,emotion,vue,nuxt,webpack,vite)](https://skillicons.dev)
 <br /><br />
 
 ## 📌 back-end
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,mysql,mongodb,sqlite,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,mysql,mongodb)](https://skillicons.dev)
 <br /><br />
 
 ## 📌 deploy
@@ -22,4 +22,4 @@
 <br /><br />
 
 ## 📌 etc...
-[![My Skills](https://skillicons.dev/icons?i=discord,git,github,md,vscode,regex,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,git,github,vscode)](https://skillicons.dev)

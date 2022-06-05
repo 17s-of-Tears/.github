@@ -3,23 +3,23 @@
 
 ## 📌 lenguage
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass)](https://skillicons.dev)
-<br />
+<br /><br />
 
 ## 📌 front-end
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,styledcomponents,emotion,vue,nuxt,webpack,vite,jest,bootstrap,materialui)](https://skillicons.dev)
-<br />
+<br /><br />
 
 ## 📌 back-end
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,mysql,mongodb,sqlite,nginx)](https://skillicons.dev)
-<br />
+<br /><br />
 
 ## 📌 deploy
 [![My Skills](https://skillicons.dev/icons?i=aws,heroku,netlify,raspberrypi)](https://skillicons.dev)
-<br />
+<br /><br />
 
 ## 📌 design
 [![My Skills](https://skillicons.dev/icons?i=ai,ps,figma)](https://skillicons.dev)
-<br />
+<br /><br />
 
 ## 📌 etc...
 [![My Skills](https://skillicons.dev/icons?i=discord,git,github,md,vscode,regex,stackoverflow)](https://skillicons.dev)
